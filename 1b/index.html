@@ -53,7 +53,7 @@
 
     <script type="application/javascript">
         function update() {
-            $.getJSON('http://molee.me/o/stop.php?stop=BUS637NW&route=1B', function (json) {
+            $.getJSON('http://molee.me:8080/stop.php?stop=BUS637NW&route=1B', function (json) {
                 if (json) {
                     console.log(json);
                     $(".time1").remove();
@@ -63,7 +63,7 @@
                 }
             });
 
-            $.getJSON('http://molee.me/o/stop.php?stop=BUS530S&route=1B', function (json) {
+            $.getJSON('http://molee.me:8080/stop.php?stop=BUS530S&route=1B', function (json) {
                 if (json) {
                     $(".time2").remove();
                     $.each(json, function(i, item) {
