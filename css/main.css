@@ -1,0 +1,58 @@
+/* Remove padding and force height to 100% */
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    /* Some fonts and nice colors */
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #444;
+
+    background-color: #fefefe;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+a {
+    color: #444;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.title {
+    padding: 20px 0;
+    width: 100%;
+
+    background-color: #333;
+    color: white;
+
+    font-size: 45px;
+    text-align: center;
+}
+
+.content {
+    margin: 40px auto 0;
+    max-width: 650px;
+}
+
+.footer {
+    margin: 0 auto;
+    max-width: 650px;
+    width: 100%;
+
+    display: table;
+    table-layout: fixed;
+    text-align: center;
+}
+
+.footer > div {
+    display: table-cell;
+    width: 100%;
+}
