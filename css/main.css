@@ -37,14 +37,28 @@ a:hover {
     text-align: center;
 }
 
+@media (max-device-width: 480px) {
+    .title {
+        font-size: 35px;
+    }
+}
+
+@media (max-device-width: 320px) {
+    .title {
+        font-size: 25px;
+    }
+}
+
 .content {
     margin: 40px auto 0;
     max-width: 650px;
+    padding: 0 10px;
 }
 
 .footer {
     margin: 0 auto;
     max-width: 650px;
+    padding: 0 10px;
     width: 100%;
 
     display: table;
