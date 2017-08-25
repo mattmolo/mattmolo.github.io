@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2048"
+   height="2048"
+   viewBox="0 0 2048 2048"
+   id="svg5382"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="code.svg">
+  <metadata
+     id="metadata5390">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5388" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="852"
+     id="namedview5386"
+     showgrid="false"
+     inkscape:zoom="0.34"
+     inkscape:cx="1021.0588"
+     inkscape:cy="1131.2941"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5382" />
+  <path
+     d="m 681,1463 -50,50 q -10,10 -23,10 -13,0 -23,-10 L 119,1047 q -10,-10 -10,-23 0,-13 10,-23 L 585,535 q 10,-10 23,-10 13,0 23,10 l 50,50 q 10,10 10,23 0,13 -10,23 l -393,393 393,393 q 10,10 10,23 0,13 -10,23 z M 1272,396 899,1687 q -4,13 -15.5,19.5 -11.5,6.5 -23.5,2.5 l -62,-17 q -13,-4 -19.5,-15.5 Q 772,1665 776,1652 L 1149,361 q 4,-13 15.5,-19.5 11.5,-6.5 23.5,-2.5 l 62,17 q 13,4 19.5,15.5 6.5,11.5 2.5,24.5 z m 657,651 -466,466 q -10,10 -23,10 -13,0 -23,-10 l -50,-50 q -10,-10 -10,-23 0,-13 10,-23 l 393,-393 -393,-393 q -10,-10 -10,-23 0,-13 10,-23 l 50,-50 q 10,-10 23,-10 13,0 23,10 l 466,466 q 10,10 10,23 0,13 -10,23 z"
+     id="path5384"
+     inkscape:connector-curvature="0"
+     style="fill:#474851;fill-opacity:1" />
+</svg>
